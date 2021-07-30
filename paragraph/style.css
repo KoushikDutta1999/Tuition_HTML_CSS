@@ -1,0 +1,31 @@
+body{
+		background-color: yellow;
+	}
+	.first{
+		color: red;
+		background-color: blue;
+		padding: 30px;
+		margin: 30px;
+		border: 3px solid black;
+	}
+	#second{
+		color:green;
+		background-color: white;
+		padding: 30px;
+		margin: 30px;
+		border: 3px dashed red;
+	}
+	#third{
+		color: blue;
+		background-color: grey;
+		padding: 30px;
+		margin: 30px;
+		border: 3px dotted green;
+	}
+	#forth{
+		color: black;
+		background-color: red;
+		padding: 30px;
+		margin: 30px;
+		border: 3px double blue;
+	}
